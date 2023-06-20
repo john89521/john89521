@@ -9,7 +9,8 @@
 - ⚡ Fun fact: ...
 ##  
 <div>
-[Testing Link]([https://raw.githubusercontent.com/tat-quintero/SQL/main/Book%20Store%20Database](https://github.com/tat-quintero/SQL/blob/a344efbd2bd959bdeb129466bb149bb4c58a0c9f/Book%20Store%20Database))
+[Testing Link]
+[ Book Store Database](https://github.com/tat-quintero/SQL/blob/a344efbd2bd959bdeb129466bb149bb4c58a0c9f/Book%20Store%20Database)
  </div>
 <div>  
  <!--  <a href = "mailto:john89521@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
