@@ -8,10 +8,9 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 ##  
-<div>
-[Testing Link]
-[ Book Store Database](https://github.com/tat-quintero/SQL/blob/a344efbd2bd959bdeb129466bb149bb4c58a0c9f/Book%20Store%20Database)
- </div>
+
+[Testing Link Book Store Database](https://github.com/tat-quintero/SQL/blob/a344efbd2bd959bdeb129466bb149bb4c58a0c9f/Book%20Store%20Database)
+
 <div>  
  <!--  <a href = "mailto:john89521@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
