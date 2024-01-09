@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on stuff.
-- 🌱 I’m currently learning GitHub
+- 🔭 I’m currently working on GitHub Foundations
 - 👯 I’m looking to collaborate on open source documentation
 - 🤔 I’m looking for help with Git
 - 💬 Ask me about MadCap Flare
