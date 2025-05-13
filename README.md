@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working through Codecademy's Front End Dev course
+- 🔭 I’m currently working through Codecademy's PHP course
 - 👯 I’m looking to collaborate on open source documentation
 - 🤔 I’m looking for help with Git
-- 💬 Ask me about MadCap Flare
 - 📫 How to reach me: ...
 - ⚡ Fun fact: student at Codecademy
 ##  
