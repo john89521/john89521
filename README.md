@@ -4,7 +4,7 @@
 - - 🤔 I don't use Copilot; 
 - 👯 I’m willing to collaborate on open source documentation
 - 📫 How to reach me: ...
-- ⚡ Fun fact: student at Codecademy
+- ⚡ Fun fact: the Free plan does not include Support; but $4.00/mo is _very_ worth it. 
 ##  
 
 <div>  
