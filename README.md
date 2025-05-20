@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working through Codecademy's PHP course
-- 👯 I’m looking to collaborate on open source documentation
-- 🤔 I’m looking for help with Git
+- - 🤔 I don't use Copilot; 
+- 👯 I’m willing to collaborate on open source documentation
 - 📫 How to reach me: ...
 - ⚡ Fun fact: student at Codecademy
 ##  
